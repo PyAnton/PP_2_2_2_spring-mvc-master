@@ -1,4 +1,4 @@
-package web.config.repository;
+package web.repository;
 
 import org.springframework.stereotype.Repository;
 import web.model.Car;
